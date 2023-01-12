@@ -11126,6 +11126,7 @@ p {
 
 .btn-rounded {
   border-radius: 100px;
+  margin-left: 30%;
 }
 
 .service-card {
@@ -12175,7 +12176,8 @@ pre .code {
 
 .about-img-holder .about-img {
   width: 100%;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
+  border-radius: 10px;
 }
 
 .about-caption {
